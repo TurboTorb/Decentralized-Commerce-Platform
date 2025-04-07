@@ -1,5 +1,5 @@
 # Decentralized Commerce Platform
-This is the code base for the platform
+This is the intial test for the smart contracts for a decentralized e-commerce platform
 
 # Truffle
 All the smart contracts, migrations, test scripts, and ABI's are located in the "truffle" folder
